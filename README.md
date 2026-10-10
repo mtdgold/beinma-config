@@ -1,0 +1,1 @@
+# beinma-config
